@@ -207,7 +207,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 16,
@@ -221,7 +221,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 17,
@@ -235,7 +235,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 18,
@@ -249,7 +249,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 19,
@@ -263,7 +263,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 20,
@@ -277,7 +277,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 21,
@@ -291,7 +291,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 22,
@@ -305,7 +305,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 23,
@@ -319,7 +319,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 24,
@@ -333,7 +333,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 25,
@@ -543,7 +543,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "redtome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 40,
@@ -557,7 +557,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "redtome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 41,
@@ -739,7 +739,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "axe",
 		"affectsduel": 1
 	}, {
 		"skill_id": 54,
@@ -753,7 +753,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "axe",
 		"affectsduel": 1
 	}, {
 		"skill_id": 55,
@@ -767,7 +767,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "axe",
 		"affectsduel": 1
 	}, {
 		"skill_id": 56,
@@ -907,7 +907,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "greentome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 66,
@@ -921,7 +921,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "greentome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 67,
@@ -1103,7 +1103,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "lance",
 		"affectsduel": 1
 	}, {
 		"skill_id": 80,
@@ -1117,7 +1117,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "lance",
 		"affectsduel": 1
 	}, {
 		"skill_id": 81,
@@ -1257,7 +1257,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bluetome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 91,
@@ -1271,7 +1271,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bluetome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 92,
@@ -1565,7 +1565,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bow",
 		"affectsduel": 1
 	}, {
 		"skill_id": 113,
@@ -1579,7 +1579,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bow",
 		"affectsduel": 1
 	}, {
 		"skill_id": 114,
@@ -1733,7 +1733,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "dagger",
 		"affectsduel": 1
 	}, {
 		"skill_id": 125,
@@ -5835,7 +5835,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 418,
@@ -5849,7 +5849,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 419,
@@ -6031,7 +6031,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 432,
@@ -6115,7 +6115,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "redtome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 438,
@@ -6283,7 +6283,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 450,
@@ -6353,7 +6353,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "lance",
 		"affectsduel": 1
 	}, {
 		"skill_id": 455,
@@ -7305,7 +7305,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bluetome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 523,
@@ -7347,7 +7347,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "greentome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 526,
@@ -8117,7 +8117,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bow",
 		"affectsduel": 1
 	}, {
 		"skill_id": 581,
@@ -8173,7 +8173,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "lance",
 		"affectsduel": 1
 	}, {
 		"skill_id": 585,
@@ -8285,7 +8285,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "lance",
 		"affectsduel": 1
 	}, {
 		"skill_id": 593,
@@ -8327,7 +8327,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "axe",
 		"affectsduel": 1
 	}, {
 		"skill_id": 596,
@@ -8397,7 +8397,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bow",
 		"affectsduel": 1
 	}, {
 		"skill_id": 601,
@@ -8467,7 +8467,7 @@
 		"def": 3,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "lance",
 		"affectsduel": 1
 	}, {
 		"skill_id": 606,
@@ -8509,7 +8509,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 609,
@@ -8579,7 +8579,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 614,
@@ -8775,7 +8775,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 628,
@@ -8831,7 +8831,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "axe",
 		"affectsduel": 1
 	}, {
 		"skill_id": 632,
@@ -9783,7 +9783,7 @@
 		"def": 0,
 		"res": 3,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 700,
@@ -9853,7 +9853,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "greentome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 705,
@@ -9937,7 +9937,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "redtome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 711,
@@ -9965,7 +9965,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 713,
@@ -9979,7 +9979,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 2,
-		"inheritrule": "unique",
+		"inheritrule": "",
 		"affectsduel": 1
 	}, {
 		"skill_id": 714,
@@ -10203,7 +10203,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "redtome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 730,
@@ -10371,7 +10371,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "axe",
 		"affectsduel": 1
 	}, {
 		"skill_id": 742,
@@ -10427,7 +10427,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bluetome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 746,
@@ -10469,7 +10469,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 749,
@@ -10525,7 +10525,7 @@
 		"def": 0,
 		"res": 5,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 753,
@@ -10665,7 +10665,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "lance",
 		"affectsduel": 1
 	}, {
 		"skill_id": 763,
@@ -10735,7 +10735,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 768,
@@ -10791,7 +10791,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "lance",
 		"affectsduel": 1
 	}, {
 		"skill_id": 772,
@@ -11575,7 +11575,7 @@
 		"def": 0,
 		"res": 3,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "greentome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 828,
@@ -11855,7 +11855,7 @@
 		"def": 0,
 		"res": 3,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bluetome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 848,
@@ -11883,7 +11883,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "dagger",
 		"affectsduel": 1
 	}, {
 		"skill_id": 850,
@@ -12065,7 +12065,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "dragon",
 		"affectsduel": 1
 	}, {
 		"skill_id": 863,
@@ -12093,7 +12093,7 @@
 		"def": 0,
 		"res": 3,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "redtome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 865,
@@ -12107,7 +12107,7 @@
 		"def": 3,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bluetome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 866,
@@ -12163,7 +12163,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "redtome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 870,
@@ -12317,7 +12317,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "axe",
 		"affectsduel": 1
 	}, {
 		"skill_id": 881,
@@ -12331,7 +12331,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "dagger",
 		"affectsduel": 1
 	}, {
 		"skill_id": 882,
@@ -12345,7 +12345,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "lance",
 		"affectsduel": 1
 	}, {
 		"skill_id": 883,
@@ -12359,7 +12359,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 884,
@@ -12401,7 +12401,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "axe",
 		"affectsduel": 1
 	}, {
 		"skill_id": 887,
@@ -12709,7 +12709,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "dragon",
 		"affectsduel": 1
 	}, {
 		"skill_id": 909,
@@ -12779,7 +12779,7 @@
 		"def": 3,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 914,
@@ -12835,7 +12835,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bow",
 		"affectsduel": 1
 	}, {
 		"skill_id": 918,
@@ -12849,7 +12849,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "lance",
 		"affectsduel": 1
 	}, {
 		"skill_id": 919,
@@ -12905,7 +12905,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "greentome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 923,
@@ -12919,7 +12919,7 @@
 		"def": 3,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "redtome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 924,
@@ -13031,7 +13031,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 932,
@@ -13311,7 +13311,7 @@
 		"def": 0,
 		"res": 3,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bluetome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 952,
@@ -13437,7 +13437,7 @@
 		"def": 0,
 		"res": 3,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "greentome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 961,
@@ -13577,7 +13577,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 971,
@@ -13591,7 +13591,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "redtome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 972,
@@ -13605,7 +13605,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 973,
@@ -13619,7 +13619,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "greentome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 974,
@@ -13703,7 +13703,7 @@
 		"def": 3,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 980,
@@ -13759,7 +13759,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bluetome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 984,
@@ -13913,7 +13913,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bow",
 		"affectsduel": 1
 	}, {
 		"skill_id": 995,
@@ -14039,7 +14039,7 @@
 		"def": 0,
 		"res": 3,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bow",
 		"affectsduel": 1
 	}, {
 		"skill_id": 1004,
@@ -14109,7 +14109,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 1009,
@@ -14151,7 +14151,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "bluetome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 1012,
@@ -14263,7 +14263,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "axe",
 		"affectsduel": 1
 	}, {
 		"skill_id": 1020,
@@ -14277,7 +14277,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "lance",
 		"affectsduel": 1
 	}, {
 		"skill_id": 1021,
@@ -14291,7 +14291,7 @@
 		"def": 0,
 		"res": 3,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "redtome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 1022,
@@ -14683,7 +14683,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "sword",
 		"affectsduel": 1
 	}, {
 		"skill_id": 1050,
@@ -14767,7 +14767,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "greentome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 1056,
@@ -14823,7 +14823,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "dragon",
 		"affectsduel": 1
 	}, {
 		"skill_id": 1060,
@@ -15173,7 +15173,7 @@
 		"def": 0,
 		"res": 0,
 		"charge": 0,
-		"inheritrule": "unique",
+		"inheritrule": "redtome",
 		"affectsduel": 1
 	}, {
 		"skill_id": 1085,
